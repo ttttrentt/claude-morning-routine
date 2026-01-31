@@ -139,10 +139,6 @@ Edit `commands/schedule-day.md` and change `25 * minutes` to your preferred dura
 **Disable Calendar or Spotify:**
 Simply remove or comment out those sections in `commands/main.md` and `commands/schedule-day.md`.
 
-## Credits
-
-Created by Artem Zhutov as part of a personal productivity system built on Claude Code and Obsidian.
-
 ## License
 
 MIT
